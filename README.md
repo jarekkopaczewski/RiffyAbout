@@ -90,8 +90,8 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
 ## Przeglądarka artykułów
 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(28).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(29).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/8b1438e3af182b025a8469365476bef8efe86d32/images/nutone%20(28).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/8b1438e3af182b025a8469365476bef8efe86d32/images/nutone%20(29).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/36c937dba455858b0cf612ae1800620e14c80109/images/nutone%20(27).png" height="600" />
 </p>
 
@@ -101,7 +101,7 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(19).png" height="600" />
 </p>
 
-## Statystyki (Mock)
+## Statystyki (mock)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(24).png" height="600" />
