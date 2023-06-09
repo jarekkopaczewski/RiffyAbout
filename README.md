@@ -42,7 +42,7 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
 ## Ćwiczenia producenckie
 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(26).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(26).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(7).png" height="600" />
 </p>
 
@@ -90,9 +90,9 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
 ## Przeglądarka artykułów
 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(28).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(29).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(27).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(28).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(29).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(27).png" height="600" />
 </p>
 
 ## Opcje
