@@ -1,5 +1,18 @@
 # Spis treści
 * [Opis projeku](#opis-projeku)
+* [Motywy](#motywy)
+* [Ćwiczenia muzyczne](#ćwiczenia-muzyczne)
+* [Challenge](#challenge)
+* [Ćwiczenia producenckie](#ćwiczenia-producenckie)
+* [Zarządzanie plikami](#zarządzanie-plikami)
+* [Uruchamianie gry](#uruchamianie-gry)
+* [Equalizacja](#equalizacja)
+* [Gain](#gain)
+* [Panorama](#panorama)
+* [Quizy](#quizy)
+* [Przeglądarka artykułów](#przeglądarka-artykułów)
+* [Opcje](#opcje)
+* [Statystyki](#statystyki)
 * [Technologie i narzędzia](#technologie-i-narzędzia)
 
 # O projekcie
@@ -49,28 +62,32 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(9).png" height="600" />
 </p>
 
-## Uruchamianie gry (Pliki lokalne | Streaming)
+## Uruchamianie gry
+### (Pliki lokalne | Streaming)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(8).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(12).png" height="600" />
 </p>
 
-## Equalizacja (Pliki lokalne | Streaming)
+## Equalizacja
+### (Pliki lokalne | Streaming)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(11).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(13).png" height="600" />
 </p>
 
-## Gain (Pliki lokalne | Streaming)
+## Gain
+### (Pliki lokalne | Streaming)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(15).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(14).png" height="600" />
 </p>
 
-## Panorama (Pliki lokalne | Streaming)
+## Panorama
+### (Pliki lokalne | Streaming)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(18).png" height="600" />
@@ -98,17 +115,19 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(19).png" height="600" />
 </p>
 
-## Statystyki (mock)
+## Statystyki
+### (mock)
 
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(24).png" height="600" />
 </p>
 
+## Technologie i narzędzia
 
 * [Kotlin](https://kotlinlang.org/)
 * [Gradle](https://gradle.org/)
 * [Android Studio](https://developer.android.com/studio)
-* [Room]([https://developer.android.com/studio](https://github.com/androidx-releases/Room))
+* [Room](https://github.com/androidx-releases/Room)
 * [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 * [Guava](https://github.com/google/guava)
 * [Gson](https://github.com/google/gson)
@@ -119,6 +138,6 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
 * [CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator)
 * [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
 * [Number Picker](https://github.com/ShawnLin013/NumberPicker)
-* [Espresso]([https://www.docker.com/](https://github.com/android/android-test))
+* [Espresso](https://github.com/android/android-test)
 * [Mockito](https://github.com/mockito/mockito)
 * [JUnit](https://github.com/junit-team)
