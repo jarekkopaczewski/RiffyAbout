@@ -1,34 +1,32 @@
-# Spis treści
-* [Opis projeku](#opis-projeku)
-* [Motywy](#motywy)
-* [Ćwiczenia muzyczne](#ćwiczenia-muzyczne)
-* [Challenge](#challenge)
-* [Ćwiczenia producenckie](#ćwiczenia-producenckie)
-* [Zarządzanie plikami](#zarządzanie-plikami)
-* [Uruchamianie gry](#uruchamianie-gry)
-* [Equalizacja](#equalizacja)
+# Table of contents
+* [Project description](#project-description)
+* [Themes](#themes)
+* [Musical exercises](#musical-exercises)
+* [Challenges](#challenges)
+* [Producer exercises](#producer-exercises)
+* [File management](#file-management)
+* [Starting the game](#starting-the-game)
+* [Equalization](#equalization)
 * [Gain](#gain)
-* [Panorama](#panorama)
-* [Quizy](#quizy)
-* [Przeglądarka artykułów](#przeglądarka-artykułów)
-* [Opcje](#opcje)
-* [Statystyki](#statystyki)
-* [Technologie i narzędzia](#technologie-i-narzędzia)
+* [Panning](#panning)
+* [Quiz](#quiz)
+* [Articles](#articles)
+* [Settings](#settings)
+* [Stats](#stats)
+* [Technologies and tools](#technologies-and-tools)
 
-# O projekcie
+# About
 
-## Opis projeku
-Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwiczenia obecne w szkołach muzycznych - takie jak rozpoznawanie interwałów, skal czy akordów. Wyróżniającym ją czynnikiem są ćwiczenia techniczne polegające na rozpoznaniu zmiany panoramy bądź equalizacji utworów odgrywanych z plików lokalnych bądź aplikacji streamingowych użytkownika.
+## Project description
+A mobile application for ear training. Its functionalities include exercises present in music schools - such as recognition of intervals, scales or chords. A distinguishing factor is the technical exercises that involve recognizing changes in panning or equalization of songs played from the user's local files or streaming apps.
 
-## Motywy
-
+## Themes
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(25).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(20).png" height="600" />
 </p>
 
-## Ćwiczenia muzyczne
-
+## Musical exercises
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(1).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(3).png" height="600" />
@@ -43,86 +41,74 @@ Aplikacja mobilna do kształcenia słuchu. Jej funkcjonalności obejmują ćwicz
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(6).png" height="600" />
 </p>
 
-## Challenge
-
+## Challenges
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(2).png" height="600" />
 </p>
 
-## Ćwiczenia producenckie
-
+## Producer exercises
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/c3c21b07cad4161fbcbdb43d72846725957f2018/images/nutone%20(26).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(7).png" height="600" />
 </p>
 
-## Zarządzanie plikami
-
+## File management
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(9).png" height="600" />
 </p>
 
-## Uruchamianie gry
-### (Pliki lokalne | Streaming)
-
+## Starting the game
+### (Local files | Streaming)
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(8).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(12).png" height="600" />
 </p>
 
-## Equalizacja
-### (Pliki lokalne | Streaming)
-
+## Equalization
+### (Local files | Streaming)
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(11).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(13).png" height="600" />
 </p>
 
 ## Gain
-### (Pliki lokalne | Streaming)
-
+### (Local files | Streaming)
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(15).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(14).png" height="600" />
 </p>
 
-## Panorama
-### (Pliki lokalne | Streaming)
-
+## Panning
+### (Local files | Streaming)
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(18).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(16).png" height="600" />
 </p>
 
-## Quizy 
-
+## Quiz 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(21).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b0fcc66550fafb63e91f32fb9342deff5c65692a/images/nutone%20(22).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/17be08c17d0c92233a05ae5ebb9b9fb321c85138/images/nutone%20(21).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/17be08c17d0c92233a05ae5ebb9b9fb321c85138/images/nutone%20(22).png" height="600" />
 </p>
 
-## Przeglądarka artykułów
-
+## Articles
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/8b1438e3af182b025a8469365476bef8efe86d32/images/nutone%20(28).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/17be08c17d0c92233a05ae5ebb9b9fb321c85138/images/nutone%20(28).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/8b1438e3af182b025a8469365476bef8efe86d32/images/nutone%20(29).png" height="600" />
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/36c937dba455858b0cf612ae1800620e14c80109/images/nutone%20(27).png" height="600" />
 </p>
 
-## Opcje
-
+## Settings
 <p align="center">
   <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(19).png" height="600" />
 </p>
 
-## Statystyki
-### (mock)
-
+## Stats
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/0f85b71bac66e612b7e07d2c17876d25f6f15ffd/images/nutone%20(24).png" height="600" />
+  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/17be08c17d0c92233a05ae5ebb9b9fb321c85138/images/nutone%20(24).png" height="600" />
 </p>
 
-## Technologie i narzędzia
+## Technologies and tools
 
 * [Kotlin](https://kotlinlang.org/)
 * [Gradle](https://gradle.org/)
